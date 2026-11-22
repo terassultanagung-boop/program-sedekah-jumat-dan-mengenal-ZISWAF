@@ -21,7 +21,7 @@
     {
       "c": "TSA-2211-365",
       "d": "18/11/2026",
-      "n": "dolah Nominal: Rp10.000 Kanal: QRIS Kode konfirmasi: TSA-2211-365 Waktu: 18/11/2026",
+      "n": "dolah ",
       "a": 10000
     }
   ],
@@ -39,5 +39,5 @@
       "a": 21000
     }
   ],
-  "updated": 1795329367319
+  "updated": 1795329372863
 }
