@@ -29,6 +29,12 @@
       "d": "18/11/2026",
       "n": "davis Nominal: Rp22.000 Kanal: QRIS Kode konfirmasi: TSA-2211-688 Waktu: 18/11/2026",
       "a": 22000
+    },
+    {
+      "c": "TSA-2211-407",
+      "d": "17/11/2026",
+      "n": "HAMBA ALLAH Nominal: Rp2.000 Kanal: QRIS Kode konfirmasi: TSA-2211-407 Waktu: 17/11/2026",
+      "a": 2000
     }
   ],
   "out": [
@@ -45,5 +51,5 @@
       "a": 21000
     }
   ],
-  "updated": 1795329443011
+  "updated": 1795329550563
 }
