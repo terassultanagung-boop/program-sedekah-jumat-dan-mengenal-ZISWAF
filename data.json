@@ -27,7 +27,7 @@
     {
       "c": "TSA-2211-688",
       "d": "18/11/2026",
-      "n": "davis Nominal: Rp22.000 Kanal: QRIS Kode konfirmasi: TSA-2211-688 Waktu: 18/11/2026",
+      "n": "davis ",
       "a": 22000
     },
     {
@@ -51,5 +51,5 @@
       "a": 21000
     }
   ],
-  "updated": 1795329550563
+  "updated": 1795329558247
 }
